@@ -1,0 +1,9 @@
+system start
+initializing modules
+error: disk full
+loading drivers
+network check
+error: connection timeout
+system ready
+warning: low memory
+shutdown
